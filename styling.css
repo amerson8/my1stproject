@@ -1,0 +1,31 @@
+span {
+    color: yellow;
+    font-size: 20pt;
+}
+
+ol {
+    color: purple;
+    font-size: 200%;
+    border: 3px solid red;
+}
+
+.mijnclass1 {
+    color: blue;
+}
+
+.mijnclass2 {
+    color: darkorange;
+}
+
+#mijntweedetext {
+    color: brown;
+}
+
+a:hover {
+    color: greenyellow;
+    text-decoration: line-through
+}
+
+li:nth-of-type(even) {
+    color: red
+}
